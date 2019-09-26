@@ -1,3 +1,4 @@
+Copiright 2019 <aaaaaaaalesha>
 #include <iostream>
 
 int main() 
