@@ -1,4 +1,4 @@
-Copiright 2019 <aaaaaaaalesha>
+/*Copiright 2019 <aaaaaaaalesha>*/
 #include <iostream>
 
 int main() 
