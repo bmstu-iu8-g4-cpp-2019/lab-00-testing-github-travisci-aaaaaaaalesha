@@ -1,4 +1,5 @@
-/*Copiright 2019 <aaaaaaaalesha>*/
+// Copyright 2019 <aaaaaaaalesha>
+
 #include <iostream>
 int main()
 {
